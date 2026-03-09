@@ -20,13 +20,13 @@
 
 | ID | Story | Status | Points |
 |----|-------|--------|--------|
-| S1-01 | Define NFT contract structure | To Do | 5 |
-| S1-02 | Design referral tree data model | To Do | 3 |
-| S1-03 | Document USDT payment flow | To Do | 3 |
-|**S1-04**| **Generate login page with v0** | **🔄 In Progress** | **8** |
-| S1-05 | Set up GitHub repo | To Do | 2 |
-| S1-06 | Create v0 project | To Do | 2 |
-| S1-07 | Deploy login UI preview | To Do | 3 |
+| S1-01 | Define NFT contract structure | #1 | 5 |
+| S1-02 | Design referral tree data model | #2 | 3 |
+| S1-03 | Document USDT payment flow | #3 | 3 |
+|**S1-04**| **Generate login page with v0** | **#4** | **8** |
+| S1-05 | Set up GitHub repo | #6 | 2 |
+| S1-06 | Create v0 project | #7 | 2 |
+| S1-07 | Deploy login UI preview | #8 | 3 |
 
 **Total Points:** 26 | **Completed:** 2/26 (8%)
 
@@ -46,8 +46,7 @@ Day 1 (Mar 9):  ████░░░░░░░░░░ 2/26 pts
 
 | Blocker | Impact | Owner | Status |
 |---------|--------|-------|--------|
-| ~Need v0 access~ | ~Can't generate UI~ | ~Poom~ | ✅ Logo provided |
-| Need v0.ai account | Can't generate UI | Poom | ⏳ Pending |
+| ~Need v0.ai account~ | ~Can't generate UI~ | ~Poom~ | ⏳ Next: Go to v0.ai |
 
 ---
 
