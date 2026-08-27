@@ -1,0 +1,29 @@
+{
+  "name": "eggo-world",
+  "version": "1.0.0",
+  "description": "**Project Type:** NFT Membership System with Multi-Level Commission **Start Date:** 2026-03-09",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Poom5741/eggo-world.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Poom5741/eggo-world/issues"
+  },
+  "homepage": "https://github.com/Poom5741/eggo-world#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.2",
+    "@openzeppelin/contracts": "^5.6.1",
+    "hardhat": "^2.29.1"
+  }
+}
